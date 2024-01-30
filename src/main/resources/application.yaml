@@ -5,7 +5,7 @@ server:
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://m001-student:6cyw680Zu5qT50aX@sandbox.j55egoq.mongodb.net/?retryWrites=true&w=majority
+      uri: mongodb+srv://m001-student:***@sandbox.j55egoq.mongodb.net/?retryWrites=true&w=majority
       database: mongodb
 
 # swagger-ui custom path
